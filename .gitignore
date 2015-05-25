@@ -1,9 +1,9 @@
 proguard-project.txt
-.gradle
+.gradle/
+.idea/
 /local.properties
-/.idea/workspace.xml
 .DS_Store
-/build
+build/
 *.apk
 *.ap_
 *.dex
@@ -17,5 +17,4 @@ proguard/
 *.iml
 *.ipr
 *.iws
-.idea/
 /.apt_generated
