@@ -4,6 +4,7 @@ proguard-project.txt
 /local.properties
 .DS_Store
 build/
+app/build/
 libraries/*/build/
 *.apk
 *.ap_

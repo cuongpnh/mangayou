@@ -19,6 +19,6 @@ android {
 
 dependencies {
     compile project(':libraries:AsynHttpClient')
-    compile 'com.android.support:support-v4:21.0.3'
+    compile 'com.android.support:support-v4:+'
     compile 'com.google.code.gson:gson:2.2.4'
 }

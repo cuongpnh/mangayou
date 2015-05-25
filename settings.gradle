@@ -1,3 +1,4 @@
+include ':libraries:ActionBarSherlock'
 include ':libraries:AsynHttpClient'
 include ':libraries:MangaYouLibrary'
 include ':libraries:SlidingMenulibrary'

@@ -26,7 +26,7 @@ dependencies {
     compile project(':libraries:MangaYouLibrary')
     compile project(':libraries:SlidingMenulibrary')
     compile 'com.android.support:support-v4:21.0.3'
-    compile 'com.actionbarsherlock:actionbarsherlock:4.4.0@aar'
+    compile project(':libraries:ActionBarSherlock')
     compile files('libs/android-query-full.0.26.7.jar')
     compile files('libs/universal-image-loader-1.9.3.jar')
 }
