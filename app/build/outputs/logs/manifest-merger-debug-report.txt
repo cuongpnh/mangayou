@@ -17,7 +17,7 @@ ADDED from AndroidManifest.xml:1:1
 		ADDED from AndroidManifest.xml:3:5
 uses-permission#android.permission.INTERNET
 ADDED from AndroidManifest.xml:7:5
-MERGED from mangayou:AsynHttpClient:unspecified:7:5
+MERGED from mangayou.libraries:AsynHttpClient:unspecified:7:5
 	android:name
 		ADDED from AndroidManifest.xml:7:22
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
@@ -30,9 +30,9 @@ ADDED from AndroidManifest.xml:9:5
 		ADDED from AndroidManifest.xml:9:22
 uses-sdk
 ADDED from AndroidManifest.xml:11:5
-MERGED from mangayou:MangaYouLibrary:unspecified:7:5
+MERGED from mangayou.libraries:MangaYouLibrary:unspecified:7:5
 MERGED from com.android.support:support-v4:21.0.3:15:5
-MERGED from mangayou:SlidingMenulibrary:unspecified:7:5
+MERGED from mangayou.libraries:SlidingMenulibrary:unspecified:7:5
 MERGED from com.android.support:support-v4:21.0.3:15:5
 MERGED from com.actionbarsherlock:actionbarsherlock:4.4.0:3:3
 MERGED from com.android.support:support-v4:21.0.3:15:5
@@ -47,8 +47,8 @@ MERGED from com.actionbarsherlock:actionbarsherlock:4.4.0:3:3
 		INJECTED from AndroidManifest.xml:0:0
 application
 ADDED from AndroidManifest.xml:15:5
-MERGED from mangayou:MangaYouLibrary:unspecified:11:5
-MERGED from mangayou:AsynHttpClient:unspecified:9:5
+MERGED from mangayou.libraries:MangaYouLibrary:unspecified:11:5
+MERGED from mangayou.libraries:AsynHttpClient:unspecified:9:5
 MERGED from com.android.support:support-v4:21.0.3:16:5
 MERGED from com.android.support:support-v4:21.0.3:16:5
 MERGED from com.actionbarsherlock:actionbarsherlock:4.4.0:4:3

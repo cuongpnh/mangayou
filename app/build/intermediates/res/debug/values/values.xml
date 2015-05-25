@@ -71,7 +71,7 @@
     <color name="filter_alter_bg">#ffc8d2db</color>
     <color name="filter_main_bg">#ffdde4ed</color>
     <color name="filter_section_title">#ff046a8e</color>
-    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou/mangaYouLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou.libraries/MangaYouLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="gray">#ff888888</color>
     <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/src/main/res/values/colors.xml -->
@@ -93,7 +93,7 @@
     <color name="navy_blue">#ff1f262d</color>
     <color name="noresult_textColor">#ff97999d</color>
     <color name="orange">#fff15a29</color>
-    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou/mangaYouLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou.libraries/MangaYouLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="overlay">#CC333333</color>
     <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/src/main/res/values/colors.xml -->
@@ -287,7 +287,7 @@
     <item name="abs__progress_circular" type="id"/>
     <item name="abs__progress_horizontal" type="id"/>
     <item name="abs__up" type="id"/>
-    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou/slidingMenulibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou.libraries/SlidingMenulibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="selected_view" type="id"/>
     <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values/values.xml -->
@@ -337,7 +337,7 @@
     <string name="common_updating_manga_list">Updating manga list</string>
     <string name="error_chapter_list_not_found">Chapter list not found</string>
     <string name="error_chapter_not_found">Chapter not found</string>
-    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou/mangaYouLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou.libraries/MangaYouLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="error_connection_timeout">Connection timeout</string>
     <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/src/main/res/values/strings.xml -->
@@ -350,7 +350,7 @@
     <string name="error_out_of_memory_error">Out Of Memory error</string>
     <string name="error_unknown_error">Unknown error</string>
     <string name="frag_search_manga_source_select_manga_source">Select manga source</string>
-    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou/mangaYouLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou.libraries/MangaYouLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="invalid_parameter">Invalid parameter</string>
     <string name="is_missing">is missing</string>
@@ -370,7 +370,7 @@
     <string name="menu_refresh">Refresh</string>
     <string name="menu_search_manga">Search manga</string>
     <string name="menu_sort_by">Sort by</string>
-    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou/mangaYouLibrary/unspecified/res/values/values.xml -->
+    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou.libraries/MangaYouLibrary/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="there_something_happened_when_process_this_request">There is something happened when process this requset </string>
     <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/src/main/res/values/styles.xml -->

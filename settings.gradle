@@ -1,4 +1,4 @@
-include ':AsynHttpClient'
-include ':MangaYouLibrary'
-include ':SlidingMenulibrary'
+include ':libraries:AsynHttpClient'
+include ':libraries:MangaYouLibrary'
+include ':libraries:SlidingMenulibrary'
 include ':app'

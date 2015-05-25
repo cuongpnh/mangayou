@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/MangaYouLibrary/MangaYouLibrary.iml" filepath="$PROJECT_DIR$/MangaYouLibrary/MangaYouLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/SlidingMenuLibrary/SlidingMenulibrary.iml" filepath="$PROJECT_DIR$/SlidingMenuLibrary/SlidingMenulibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/mangaYou/app.iml" filepath="$PROJECT_DIR$/mangaYou/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
       <module fileurl="file://$PROJECT_DIR$/mangayou.iml" filepath="$PROJECT_DIR$/mangayou.iml" />
     </modules>
   </component>
