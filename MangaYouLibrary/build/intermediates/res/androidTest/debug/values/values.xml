@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/MangaYouLibrary/build/intermediates/bundles/debug/res/values/values.xml -->
+    <eat-comment/>
+    <color name="gray">#ff888888</color>
+    <color name="overlay">#CC333333</color>
+    <string name="app_name">MangaYouLibrary</string>
+    <string name="error_connection_timeout">Connection timeout</string>
+    <string name="invalid_parameter">Invalid parameter</string>
+    <string name="is_missing">is missing</string>
+    <string name="there_something_happened_when_process_this_request">There is something happened when process this requset </string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

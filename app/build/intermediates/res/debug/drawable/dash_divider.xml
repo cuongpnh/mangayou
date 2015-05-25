@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="line"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:color="#50939598" android:dashWidth="3.0dip" android:dashGap="5.0dip" />
+</shape><!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/src/main/res/drawable/dash_divider.xml -->

@@ -1,0 +1,97 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="manga_list_item_title">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textIsSelectable">false</item>
+    </style>
+
+    <style name="manga_list_item_subtitle">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/white_blur</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textIsSelectable">false</item>
+    </style>
+
+    <style name="LatestItemCount">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/manga_count_bg</item>
+        <item name="android:minWidth">25.0dip</item>
+    </style>
+
+    <style name="manga_grid_item_title">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff231f20</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textIsSelectable">false</item>
+    </style>
+
+    <style name="manga_grid_item_subtitle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff939598</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textIsSelectable">false</item>
+    </style>
+
+    <style name="GridLatestItemCount">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/orange</item>
+        <item name="android:padding">4.0dip</item>
+        <item name="android:minWidth">25.0dip</item>
+    </style>
+
+    <style name="MangaInfoHeader">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffbadef6</item>
+        <item name="android:layout_marginRight">20.0dip</item>
+    </style>
+
+    <style name="MangaInfoContent">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffa4a4a4</item>
+    </style>
+        <style name="ChapterListTitle">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/chapter_text_unread</item>
+    </style>
+        <style name="ChapterListStatus">
+        <item name="android:textSize">11.0sp</item>
+        <item name="android:textColor">#ffffde17</item>
+    </style>
+    <style name="ProgressBarStyle" parent="@android:style/Widget.ProgressBar.Horizontal"/>
+
+</resources>

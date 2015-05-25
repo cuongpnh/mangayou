@@ -1,0 +1,4 @@
+include ':AsynHttpClient'
+include ':MangaYouLibrary'
+include ':SlidingMenulibrary'
+include ':app'

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_chapter_previous"
+        android:icon="@drawable/ic_action_previous_item"
+        android:showAsAction="always"
+        android:title="@string/menu_chapter_previous"/>
+    <item
+        android:id="@+id/action_chapter_next"
+        android:icon="@drawable/ic_action_next_item"
+        android:showAsAction="always"
+        android:title="@string/menu_chapter_next"/>
+
+</menu>

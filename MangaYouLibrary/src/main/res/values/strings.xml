@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">MangaYouLibrary</string>
+    <string name="invalid_parameter">Invalid parameter</string>
+    <string name="is_missing">is missing</string>
+    <string name="there_something_happened_when_process_this_request">There is something happened when process this requset </string>
+	<string name="error_connection_timeout">Connection timeout</string>
+</resources>

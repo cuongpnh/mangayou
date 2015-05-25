@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou/asynHttpClient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="201762035de37d7f24b1b2c7e06738e69bf4c28f">
+        <dex dex="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/pre-dexed/debug/classes-bd4adb121389eede9e0af5d51821a57693d322c4.jar" />
+    </item>
+    <item
+        jar="/Volumes/Work/AndroidStudio/project/me/mangayou/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-a63bbe346886cac6235ff1313544820f47d6be3c.jar" />
+    </item>
+    <item
+        jar="/Users/ciriz/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/pre-dexed/debug/gson-2.2.4-6f50329ef48bee99b531a137b520183783c95577.jar" />
+    </item>
+    <item
+        jar="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/pre-dexed/debug/classes-5629f665fc8ba71f0201085889cfee8aae72c45f.jar" />
+    </item>
+    <item
+        jar="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou/mangaYouLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bbb0c4e13f3039c3a13ad0c857ea19b506981f3c">
+        <dex dex="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/pre-dexed/debug/classes-e62ae801a8b9ea7a394fbcd7caf050f0d7d63b75.jar" />
+    </item>
+    <item
+        jar="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/pre-dexed/debug/classes-3296ba073674d1417453c83a2f7f65f3c230856b.jar" />
+    </item>
+    <item
+        jar="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1b15fc6ba385f818a299b5bd041eaf15728d6425.jar" />
+    </item>
+    <item
+        jar="/Volumes/Work/AndroidStudio/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-880d8d6b79945c96e4dc9919b21b02fd5f9dbfe5.jar" />
+    </item>
+    <item
+        jar="/Volumes/Work/AndroidStudio/project/me/mangayou/app/libs/android-query-full.0.26.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/pre-dexed/debug/android-query-full.0.26.7-805d4d06ff2bce71c387f298a0f38dcb4d3183f6.jar" />
+    </item>
+    <item
+        jar="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/exploded-aar/mangayou/slidingMenulibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1181a095f58b38135c4b465bce0b1ecb711b738">
+        <dex dex="/Volumes/Work/AndroidStudio/project/me/mangayou/app/build/intermediates/pre-dexed/debug/classes-a81834d772c023a9c4ee2e1426fab24d0e1f23a0.jar" />
+    </item>
+
+</items>

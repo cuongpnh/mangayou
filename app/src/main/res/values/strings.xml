@@ -1,0 +1,57 @@
+<resources>
+
+    <!-- General -->
+    <string name="app_name">MangaYou</string>
+    <string name="common_error_when_process_request">Error when process request</string>
+    <string name="common_back">Back</string>
+    <string name="common_about">About</string>
+    <string name="common_home">Home</string>
+    <string name="common_summary">Summary</string>
+    <string name="common_chappters">Chapters</string>
+    <string name="common_all_mangas">All manga</string>
+    <string name="common_search_manga_search">Search manga source</string>
+    <string name="commom_info">Info</string>
+    <string name="common_thumbnail">Thumbnail</string>
+    <string name="common_source">Source</string>
+    <string name="common_processing_for_another_request_please_try_again_later">Processing for another request. Please try again later</string>
+    <string name="common_updating_manga_list">Updating manga list</string>
+    <string name="common_copy_right_owner">&#169;2015 - CuongPNH(Ciriz)</string>
+    <string name="common_sort_by_name">Name</string>
+    <string name="common_sort_by_rank">Rank</string>
+    <string name="common_sort_by_updated_time">Updated time</string>
+    <string name="common_dont_stress_just_rest">Don\'t stress, just rest. Another request is processing right now</string>
+
+    <!-- Fragment -->
+    <string name="frag_search_manga_source_select_manga_source">Select manga source</string>
+    <!-- Manga -->
+    <string name="manga_info_author">Author</string>
+    <string name="manga_info_chapters">Chapters</string>
+    <string name="manga_info_status">Status</string>
+    <string name="manga_info_ranking">Ranking</string>
+    <string name="manga_info_categories">Categories</string>
+    <string name="manga_info_description">Description</string>
+    <string name="manga_info_completed">Completed</string>
+    <string name="manga_info_ongoing">Ongoing</string>
+    <string name="manga_is_loading">Manga is loading</string>
+
+    <!-- Error -->
+
+    <string name="error_invalid_parameter">Invalid parameter</string>
+    <string name="error_image_list_is_empty">Image list is empty</string>
+    <string name="error_chapter_not_found">Chapter not found</string>
+    <string name="error_chapter_list_not_found">Chapter list not found</string>
+    <string name="error_input_output_error">Input/Output error</string>
+    <string name="error_image_cant_be_decoded">Image can\'t be decoded</string>
+    <string name="error_out_of_memory_error">Out Of Memory error</string>
+    <string name="error_unknown_error">Unknown error</string>
+    <string name="error_downloads_are_denied">Downloads are denied</string>
+    
+
+    <!-- Menu -->
+    <string name="menu_search_manga">Search manga</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_sort_by">Sort by</string>
+    <string name="menu_chapter_previous">Previous</string>
+    <string name="menu_chapter_next">Next</string>
+
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:minHeight="@dimen/grid_item_height"
+    android:minWidth="@dimen/grid_item_width" >
+
+    <RelativeLayout
+        android:id="@+id/grid_item_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bkg_shadow_img" >
+
+        <ImageView
+            android:id="@+id/item_thumbnail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="0.0dip"
+            android:layout_marginTop="0.0dip"
+            android:contentDescription="@string/common_thumbnail"
+            android:minHeight="@dimen/grid_item_image_height"
+            android:minWidth="@dimen/grid_item_image_width"
+            android:scaleType="fitXY"
+            android:visibility="visible" />
+
+        <ProgressBar
+            android:id="@+id/thumb_progress"
+            android:layout_width="@dimen/grid_thumbnail_progress_size"
+            android:layout_height="@dimen/grid_thumbnail_progress_size"
+            android:layout_centerInParent="true" />
+
+        <RelativeLayout
+            android:id="@+id/grid_item_description"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/grid_item_description_height"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/item_thumbnail"
+            android:layout_marginRight="0.0dip"
+            android:background="@color/list_alternate_bg"
+            android:paddingBottom="@dimen/grid_item_description_padding_bottom"
+            android:paddingLeft="@dimen/grid_item_description_padding_left" >
+
+            <ImageView
+                android:id="@+id/item_status_thumb"
+                android:layout_width="@dimen/grid_item_status_width"
+                android:layout_height="fill_parent"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_centerInParent="true"
+                android:contentDescription="@string/common_about"
+                android:paddingLeft="0.0dip"
+                android:paddingRight="0.0dip"
+                android:scaleType="centerInside"
+                android:visibility="gone"
+                android:src="@drawable/ic_book"/>
+
+            <TextView
+                android:id="@+id/item_title"
+                style="@style/manga_grid_item_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/item_sub_title"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="-2.0dip"
+                android:layout_toRightOf="@+id/item_status_thumb" />
+
+            <TextView
+                android:id="@+id/item_sub_title"
+                style="@style/manga_grid_item_subtitle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="-2.0dip"
+                android:layout_toRightOf="@+id/item_status_thumb" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="300.0dip"
+        android:layout_height="fill_parent"
+        android:layout_alignBottom="@+id/grid_item_view"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/grid_item_overlay_background"
+        android:minHeight="100.0dip"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/item_count"
+        style="@style/GridLatestItemCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:visibility="gone" />
+
+</RelativeLayout><!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/src/main/res/layout/item_manga_grid_thumbnail.xml -->
