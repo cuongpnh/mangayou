@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="#ff959ca6" />
-    <padding android:left="4.0dip" android:top="2.0dip" android:right="2.0dip" android:bottom="4.0dip" />
-    <corners android:radius="3.0dip" />
-</shape><!-- From: file:/Volumes/Work/AndroidStudio/project/me/mangayou/app/src/main/res/drawable/manga_count_bg.xml -->
